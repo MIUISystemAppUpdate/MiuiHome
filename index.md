@@ -17,4 +17,4 @@ layout: default
 </div>
 <h1>欢迎访问我的首页！</h1>
 <p>Some text.</p>
-<p>Some more text.</p>
+<p><?php $downUrl;?></p>
