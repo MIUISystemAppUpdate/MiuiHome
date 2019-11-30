@@ -16,6 +16,6 @@ layout: default
 <?php include 'index.php';?>
 </div>
 
-<div>
+<div class="m">
 <?php echo '直链：$downUrl';?>
 </div>
