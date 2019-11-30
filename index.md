@@ -15,6 +15,7 @@ layout: default
 <div class="menu">
 <?php include 'index.php';?>
 </div>
-<h1>欢迎访问我的首页！</h1>
-<p>Some text.</p>
-<div><?php echo "直链：$downUrl";?></div>
+
+<div>
+<?php echo '直链：$downUrl';?>
+</div>
