@@ -13,7 +13,7 @@ layout: default
 [测试](/index.php?url=https://www.lanzous.com/i1aesgj&type=down)
 
 <div class="menu">
-<?php include 'menu.php';?>
+<?php include 'index.php';?>
 </div>
 <h1>欢迎访问我的首页！</h1>
 <p>Some text.</p>
