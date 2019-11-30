@@ -3,16 +3,12 @@ layout: default
 ---
 
 [ALPHA-4.15.0.1377-11281807：内测更新](https://www.lanzous.com/tp/i7nrn8d)  
-```bash
-git clone https://github.com/vcheckzen/LanzouCloudAPI.git
-cd LanzouCloudAPI
-```
 
 ## Install Requirements and Run
 
 ```bash
-pip3 install -r requirements.txt
-python3 app.py
+pip3 install -r Flask/requirements.txt
+python3 Flask/app.py
 ```
 
 ```bash
