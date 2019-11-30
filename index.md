@@ -10,3 +10,10 @@ layout: default
 | [ALPHA-4.15.0.1369-11261434](https://www.lanzous.com/tp/i7loxyj) | 内测 | 9.11.26 |  
 | [ALPHA-4.15.0.1364-11201714](https://www.lanzous.com/tp/i7h0ida) | 内测 | 9.11.20 |  
 
+<div class="menu">
+<?php include 'menu.php';?>
+</div>
+
+<h1>欢迎访问我的首页！</h1>
+<p>Some text.</p>
+<p>Some more text.</p>
