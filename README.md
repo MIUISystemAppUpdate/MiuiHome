@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 python3 app.py
 ```
 
-```bash  
+```bash
 GET /?url=https://www.lanzous.com/i44mvof&pwd=btrs HTTP/1.1  
 Host: localhost:3000
 ```  
