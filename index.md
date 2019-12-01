@@ -11,3 +11,12 @@ layout: default
 | [ALPHA-4.15.0.1364-11201714](https://www.lanzous.com/tp/i7h0ida) | 内测 | 9.11.20 |  
 
 [测试](./README.html)
+<!DOCTYPE html>
+<html>
+<div class="menu">
+<?php include 'index.php';?>
+</div>
+<div class="m">
+<?php echo '直链：$downUrl';?>
+</div>
+</html>
